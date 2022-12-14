@@ -1,0 +1,86 @@
+2022-12-14 23:10:56,099 - INFO - match: {'_index': 'worldcup_long', '_type': '_doc', '_id': '4064377f826b3c990b407a8a92cf27c0', '_score': None, '_source': {'type': 2, 'topic': 'FIFA WORLD CUP QATAR 2022', 'create_date': '2022-12-11T15:56:27.867329', 'venue': '', 'time': '2022-12-15T02:00:00', 'keyword': [], 'keyword_unsign': [], 'url': 'https://gw.vnexpress.net/football/fixture?league_id=4265', 'domain': 'https://vnexpress.net/', 'thread': '', 'detail_team_0': {'name': '', 'ensign': '', 'đội hình': [{'player': '', 'numb': 0}], 'bàn thắng': '', 'scorer': [{'name': '', 'time': []}], 'possession': '', 'numb_red_cards': 0, 'shot_on_target': 0, 'Substitutes': [{'player': '', 'numb': 0}], 'corners': 0, 'passes': 0, 'pass_accuracy': '', 'numb_yellow_cards': 0, 'pen': '', 'position': '', 'shots': 0, 'coach': '', 'Fouls': 0, 'offsides': 0}, 'detail_team_1': {'name': '', 'ensign': '', 'đội hình': [{'player': '', 'numb': 0}], 'bàn thắng': '', 'scorer': [{'name': '', 'time': []}], 'possession': '', 'numb_red_cards': 0, 'shot_on_target': 0, 'Substitutes': [{'player': '', 'numb': 0}], 'corners': 0, 'passes': 0, 'pass_accuracy': '', 'numb_yellow_cards': 0, 'pen': '', 'position': '', 'shots': 0, 'coach': '', 'Fouls': 0, 'offsides': 0}, 'substitution': [{'in': [{'name': '', 'team': '', 'numb': 0}], 'time': '', 'out': [{'name': '', 'team': '', 'numb': 0}]}], 'round': '', 'last_update': '2022-12-14T18:22:28.663119', 'card': [{'type_card': '', 'time': '', 'team': '', 'player': '', 'numb': 0}], 'group': '', 'status': ''}, 'sort': [1671069600000]}
+2022-12-14 23:17:13,197 - INFO - {'_index': 'worldcup_long', '_type': '_doc', '_id': '4064377f826b3c990b407a8a92cf27c0', '_score': None, '_source': {'type': 2, 'topic': 'FIFA WORLD CUP QATAR 2022', 'create_date': '2022-12-11T15:56:27.867329', 'venue': '', 'time': '2022-12-15T02:00:00', 'keyword': [], 'keyword_unsign': [], 'url': 'https://gw.vnexpress.net/football/fixture?league_id=4265', 'domain': 'https://vnexpress.net/', 'thread': '', 'detail_team_0': {'name': 'pháp', 'ensign': '', 'đội hình': [{'player': '', 'numb': 0}], 'bàn thắng': '', 'scorer': [{'name': '', 'time': []}], 'possession': '', 'numb_red_cards': 0, 'shot_on_target': 0, 'Substitutes': [{'player': '', 'numb': 0}], 'corners': 0, 'passes': 0, 'pass_accuracy': '', 'numb_yellow_cards': 0, 'pen': '', 'position': '', 'shots': 0, 'coach': '', 'Fouls': 0, 'offsides': 0}, 'detail_team_1': {'name': 'maroc', 'ensign': '', 'đội hình': [{'player': '', 'numb': 0}], 'bàn thắng': '', 'scorer': [{'name': '', 'time': []}], 'possession': '', 'numb_red_cards': 0, 'shot_on_target': 0, 'Substitutes': [{'player': '', 'numb': 0}], 'corners': 0, 'passes': 0, 'pass_accuracy': '', 'numb_yellow_cards': 0, 'pen': '', 'position': '', 'shots': 0, 'coach': '', 'Fouls': 0, 'offsides': 0}, 'substitution': [{'in': [{'name': '', 'team': '', 'numb': 0}], 'time': '', 'out': [{'name': '', 'team': '', 'numb': 0}]}], 'round': '', 'last_update': '2022-12-14T18:22:28.663119', 'card': [{'type_card': '', 'time': '', 'team': '', 'player': '', 'numb': 0}], 'group': '', 'status': '', 'detail_team_1.name': 'maroc', 'detail_team_0.name': 'pháp'}, 'sort': [1671069600000]}
+2022-12-14 23:17:23,192 - INFO - {'_index': 'worldcup_long', '_type': '_doc', '_id': '4064377f826b3c990b407a8a92cf27c0', '_score': None, '_source': {'type': 2, 'topic': 'FIFA WORLD CUP QATAR 2022', 'create_date': '2022-12-11T15:56:27.867329', 'venue': '', 'time': '2022-12-15T02:00:00', 'keyword': [], 'keyword_unsign': [], 'url': 'https://gw.vnexpress.net/football/fixture?league_id=4265', 'domain': 'https://vnexpress.net/', 'thread': '', 'detail_team_0': {'name': 'pháp', 'ensign': '', 'đội hình': [{'player': '', 'numb': 0}], 'bàn thắng': '', 'scorer': [{'name': '', 'time': []}], 'possession': '', 'numb_red_cards': 0, 'shot_on_target': 0, 'Substitutes': [{'player': '', 'numb': 0}], 'corners': 0, 'passes': 0, 'pass_accuracy': '', 'numb_yellow_cards': 0, 'pen': '', 'position': '', 'shots': 0, 'coach': '', 'Fouls': 0, 'offsides': 0}, 'detail_team_1': {'name': 'maroc', 'ensign': '', 'đội hình': [{'player': '', 'numb': 0}], 'bàn thắng': '', 'scorer': [{'name': '', 'time': []}], 'possession': '', 'numb_red_cards': 0, 'shot_on_target': 0, 'Substitutes': [{'player': '', 'numb': 0}], 'corners': 0, 'passes': 0, 'pass_accuracy': '', 'numb_yellow_cards': 0, 'pen': '', 'position': '', 'shots': 0, 'coach': '', 'Fouls': 0, 'offsides': 0}, 'substitution': [{'in': [{'name': '', 'team': '', 'numb': 0}], 'time': '', 'out': [{'name': '', 'team': '', 'numb': 0}]}], 'round': '', 'last_update': '2022-12-14T18:22:28.663119', 'card': [{'type_card': '', 'time': '', 'team': '', 'player': '', 'numb': 0}], 'group': '', 'status': '', 'detail_team_1.name': 'maroc', 'detail_team_0.name': 'pháp'}, 'sort': [1671069600000]}
+2022-12-14 23:21:55,523 - INFO - crawl detail
+2022-12-14 23:22:16,962 - INFO - send_key
+2022-12-14 23:22:32,222 - INFO - click_search
+2022-12-14 23:22:46,183 - INFO - click_match
+2022-12-14 23:22:55,361 - INFO - crawl_thong_ke
+2022-12-14 23:27:05,522 - INFO - click_doi_hinh
+2022-12-14 23:27:16,462 - INFO - crawl_doi_hinh
+2022-12-14 23:28:26,385 - INFO - click_timelines
+2022-12-14 23:28:30,085 - INFO - crawl_timelines
+2022-12-14 23:29:00,706 - INFO - format data
+2022-12-14 23:38:41,789 - INFO - crawl detail
+2022-12-14 23:38:50,818 - INFO - send_key
+2022-12-14 23:38:51,025 - INFO - click_search
+2022-12-14 23:38:58,288 - INFO - click_match
+2022-12-14 23:38:58,443 - INFO - crawl_thong_ke
+2022-12-14 23:39:26,110 - INFO - click_doi_hinh
+2022-12-14 23:39:26,231 - INFO - crawl_doi_hinh
+2022-12-14 23:39:45,566 - INFO - click_timelines
+2022-12-14 23:39:45,683 - INFO - crawl_timelines
+2022-12-14 23:39:48,985 - INFO - format data
+2022-12-14 23:39:48,995 - INFO - update to db
+2022-12-14 23:39:49,112 - INFO - end crawl
+2022-12-14 23:39:51,463 - INFO - {'_index': 'worldcup_long', '_type': '_doc', '_id': '4064377f826b3c990b407a8a92cf27c0', '_score': None, '_source': {'type': 2, 'topic': 'FIFA WORLD CUP QATAR 2022', 'create_date': '2022-12-11T15:56:27.867329', 'venue': '', 'time': '2022-12-15T02:00:00', 'keyword': [], 'keyword_unsign': [], 'url': 'https://gw.vnexpress.net/football/fixture?league_id=4265', 'domain': 'https://vnexpress.net/', 'thread': '', 'detail_team_0': {'name': 'pháp', 'ensign': '', 'đội hình': [{'player': '', 'numb': 0}], 'bàn thắng': '', 'scorer': [{'name': '', 'time': []}], 'possession': '', 'numb_red_cards': 0, 'shot_on_target': 0, 'Substitutes': [{'player': '', 'numb': 0}], 'corners': 0, 'passes': 0, 'pass_accuracy': '', 'numb_yellow_cards': 0, 'pen': '', 'position': '', 'shots': 0, 'coach': '', 'Fouls': 0, 'offsides': 0}, 'detail_team_1': {'name': 'maroc', 'ensign': '', 'đội hình': [{'player': '', 'numb': 0}], 'bàn thắng': '', 'scorer': [{'name': '', 'time': []}], 'possession': '', 'numb_red_cards': 0, 'shot_on_target': 0, 'Substitutes': [{'player': '', 'numb': 0}], 'corners': 0, 'passes': 0, 'pass_accuracy': '', 'numb_yellow_cards': 0, 'pen': '', 'position': '', 'shots': 0, 'coach': '', 'Fouls': 0, 'offsides': 0}, 'substitution': [{'in': [{'name': '', 'team': '', 'numb': 0}], 'time': '', 'out': [{'name': '', 'team': '', 'numb': 0}]}], 'round': '', 'last_update': '2022-12-14T18:22:28.663119', 'card': [{'type_card': '', 'time': '', 'team': '', 'player': '', 'numb': 0}], 'group': '', 'status': '', 'detail_team_1.name': 'maroc', 'detail_team_0.name': 'pháp'}, 'sort': [1671069600000]}
+2022-12-14 23:44:34,376 - INFO - crawl detail
+2022-12-14 23:44:42,239 - INFO - send_key
+2022-12-14 23:44:42,444 - INFO - click_search
+2022-12-14 23:44:44,572 - INFO - click_match
+2022-12-14 23:44:44,702 - INFO - crawl_thong_ke
+2022-12-14 23:45:54,423 - INFO - crawl detail
+2022-12-14 23:46:00,851 - INFO - send_key
+2022-12-14 23:46:01,019 - INFO - click_search
+2022-12-14 23:46:04,736 - INFO - click_match
+2022-12-14 23:46:04,870 - INFO - crawl_thong_ke
+2022-12-14 23:48:31,783 - INFO - click_doi_hinh
+2022-12-14 23:48:31,914 - INFO - crawl_doi_hinh
+2022-12-14 23:49:12,307 - INFO - click_timelines
+2022-12-14 23:49:12,433 - INFO - crawl_timelines
+2022-12-14 23:49:22,469 - INFO - format data
+2022-12-14 23:49:22,481 - INFO - update to db
+2022-12-14 23:50:22,489 - INFO - __loop: 1
+2022-12-14 23:50:22,489 - INFO - click_thong_ke
+2022-12-14 23:50:22,632 - INFO - crawl_thong_ke
+2022-12-14 23:52:49,073 - INFO - click_doi_hinh
+2022-12-14 23:52:49,176 - INFO - crawl_doi_hinh
+2022-12-14 23:53:29,485 - INFO - click_timelines
+2022-12-14 23:53:29,566 - INFO - crawl_timelines
+2022-12-14 23:53:39,623 - INFO - format data
+2022-12-14 23:53:39,627 - INFO - update to db
+2022-12-14 23:54:39,630 - INFO - __loop: 2
+2022-12-14 23:54:39,630 - INFO - click_thong_ke
+2022-12-14 23:54:39,744 - INFO - crawl_thong_ke
+2022-12-14 23:56:44,369 - INFO - click_doi_hinh
+2022-12-14 23:56:44,380 - INFO - crawl_doi_hinh
+2022-12-14 23:56:44,405 - INFO - click_timelines
+2022-12-14 23:56:44,412 - INFO - crawl_timelines
+2022-12-14 23:56:44,417 - INFO - format data
+2022-12-14 23:56:44,430 - INFO - update to db
+2022-12-15 00:09:40,375 - INFO - crawl detail
+2022-12-15 00:09:46,016 - INFO - send_key
+2022-12-15 00:09:46,169 - INFO - click_search
+2022-12-15 00:09:50,685 - INFO - click_match
+2022-12-15 00:09:50,796 - INFO - crawl_thong_ke
+2022-12-15 00:10:18,144 - INFO - click_doi_hinh
+2022-12-15 00:10:18,252 - INFO - crawl_doi_hinh
+2022-12-15 00:10:36,176 - INFO - click_timelines
+2022-12-15 00:10:36,293 - INFO - crawl_timelines
+2022-12-15 00:10:38,772 - INFO - format data
+2022-12-15 00:10:38,772 - INFO - update to db
+2022-12-15 00:10:38,913 - INFO - end crawl
+2022-12-15 00:19:46,104 - INFO - crawl detail
+2022-12-15 00:19:57,103 - INFO - send_key
+2022-12-15 00:19:57,928 - INFO - click_search
+2022-12-15 00:20:04,302 - INFO - click_match
+2022-12-15 00:20:04,564 - INFO - crawl_thong_ke
+2022-12-15 00:20:32,056 - INFO - click_doi_hinh
+2022-12-15 00:20:32,613 - INFO - crawl_doi_hinh
+2022-12-15 00:20:52,636 - INFO - click_timelines
+2022-12-15 00:20:52,755 - INFO - crawl_timelines
+2022-12-15 00:20:55,767 - INFO - format data
+2022-12-15 00:20:55,767 - INFO - update to db
+2022-12-15 00:20:55,878 - INFO - data:{'type': 2, 'topic': 'FIFA WORLD CUP QATAR 2022', 'url': 'https://gw.vnexpress.net/football/fixture?league_id=4265', 'domain': 'https://vnexpress.net/', 'create_date': '2022-12-11T15:56:27.867329', 'time': '2022-12-14T02:00:00', 'last_update': datetime.datetime(2022, 12, 15, 0, 20, 55, 767475), 'round': 'Vòng Bán kết', 'group': '', 'venue': 'Lusail Stadium', 'status': 'Kết thúc', 'detail_team_0': {'name': 'Argentina', 'ensign': 'https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png', 'bàn thắng': '3', 'scorer': [{'name': 'Lionel Messi', 'time': ["34' (P)"]}, {'name': 'Julián Álvarez', 'time': ["39',", "69'"]}], 'shots': 9, 'shot_on_target': 7, 'possession': '39%', 'passes': 399, 'pass_accuracy': '83%', 'Fouls': 15, 'numb_yellow_cards': 2, 'offsides': 1, 'corners': 2, 'position': '4-4-2', 'đội hình': [{'player': 'E. Martínez', 'numb': 23}, {'player': 'N. Molina', 'numb': 26}, {'player': 'C. Romero', 'numb': 13}, {'player': 'N. Otamendi', 'numb': 19}, {'player': 'N. Tagliafico', 'numb': 3}, {'player': 'R. De Paul', 'numb': 7}, {'player': 'L. PAREDES', 'numb': 5}, {'player': 'E. Fernández', 'numb': 24}, {'player': 'A. Mac Allister', 'numb': 20}, {'player': 'L. Messi', 'numb': 10}, {'player': 'J. Álvarez', 'numb': 9}], 'Substitutes': [{'player': 'Franco Armani', 'numb': 1}, {'player': 'Juan Foyth', 'numb': 2}, {'player': 'Germán Pezzella', 'numb': 6}, {'player': 'Ángel Di María', 'numb': 11}, {'player': 'Gerónimo Rulli', 'numb': 12}, {'player': 'Exequiel Palacios', 'numb': 14}, {'player': 'Ángel Correa', 'numb': 15}, {'player': 'Thiago Almada', 'numb': 16}, {'player': 'Guido Rodríguez', 'numb': 18}, {'player': 'Paulo Dybala', 'numb': 21}, {'player': 'Lautaro Martínez', 'numb': 22}, {'player': 'Lisandro Martínez', 'numb': 25}], 'coach': 'L. Scaloni'}, 'detail_team_1': {'name': 'Croatia', 'ensign': 'https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_96x96.png', 'bàn thắng': '0', 'shots': 12, 'shot_on_target': 2, 'possession': '61%', 'passes': 607, 'pass_accuracy': '87%', 'Fouls': 8, 'numb_yellow_cards': 2, 'corners': 4, 'position': '4-3-3', 'đội hình': [{'player': 'I. Perišić', 'numb': 4}, {'player': 'A. Kramarić', 'numb': 9}, {'player': 'M. Pašalić', 'numb': 15}, {'player': 'M. Kovačić', 'numb': 8}, {'player': 'M. Brozović', 'numb': 11}, {'player': 'L. Modrić', 'numb': 10}, {'player': 'B. Sosa', 'numb': 19}, {'player': 'J. Gvardiol', 'numb': 20}, {'player': 'D. Lovren', 'numb': 6}, {'player': 'J. Juranović', 'numb': 22}, {'player': 'D. Livaković', 'numb': 1}], 'Substitutes': [{'player': 'Josip Stanišić', 'numb': 2}, {'player': 'Borna Barišić', 'numb': 3}, {'player': 'Martin Erlić', 'numb': 5}, {'player': 'Lovro Majer', 'numb': 7}, {'player': 'Ivo Grbić', 'numb': 12}, {'player': 'Nikola Vlašić', 'numb': 13}, {'player': 'Marko Livaja', 'numb': 14}, {'player': 'Bruno Petković', 'numb': 16}, {'player': 'Ante Budimir', 'numb': 17}, {'player': 'Mislav Oršić', 'numb': 18}, {'player': 'Domagoj Vida', 'numb': 21}, {'player': 'Ivica Ivušić', 'numb': 23}, {'player': '24'}, {'player': '25'}, {'player': '26'}], 'coach': 'Z. Dalić'}, 'substitution': [{'time': "86'", 'in': [{'name': 'Juan Foyth', 'team': 'Argentina'}], 'out': [{'name': 'Nahuel Molina', 'team': 'Argentina'}]}, {'time': "86'", 'in': [{'name': 'Ángel Correa', 'team': 'Argentina'}], 'out': [{'name': 'Alexis Mac Allister', 'team': 'Argentina'}]}, {'time': "81'", 'in': [{'name': 'Lovro Majer', 'team': 'Croatia'}], 'out': [{'name': 'Luka Modrić', 'team': 'Croatia'}]}, {'time': "74'", 'in': [{'name': 'Paulo Dybala', 'team': 'Argentina'}], 'out': [{'name': 'Julián Álvarez', 'team': 'Argentina'}]}, {'time': "74'", 'in': [{'name': 'Exequiel Palacios', 'team': 'Argentina'}], 'out': [{'name': 'Rodrigo De Paul', 'team': 'Argentina'}]}, {'time': "72'", 'in': [{'name': 'Marko Livaja', 'team': 'Croatia'}], 'out': [{'name': 'Andrej Kramarić', 'team': 'Croatia'}]}, {'time': "62'", 'in': [{'name': 'Lisandro Martínez', 'team': 'Argentina'}], 'out': [{'name': 'Leandro Paredes', 'team': 'Argentina'}]}, {'time': "50'", 'in': [{'name': 'Bruno Petković', 'team': 'Croatia'}], 'out': [{'name': 'Marcelo Brozović', 'team': 'Croatia'}]}, {'time': "46'", 'in': [{'name': 'Nikola Vlašić', 'team': 'Croatia'}], 'out': [{'name': 'Mario Pašalić', 'team': 'Croatia'}]}, {'time': "46'", 'in': [{'name': 'Mislav Oršić', 'team': 'Croatia'}], 'out': [{'name': 'Borna Sosa', 'team': 'Croatia'}]}], 'card': [{'type_card': 'THẺ VÀNG', 'time': "71'", 'player': 'Nicolás Otamendi', 'team': 'Argentina'}, {'type_card': 'THẺ VÀNG', 'time': "68'", 'player': 'Cristian Romero', 'team': 'Argentina'}, {'type_card': 'THẺ VÀNG', 'time': "32'", 'player': 'Mateo Kovačić', 'team': 'Croatia'}, {'type_card': 'THẺ VÀNG', 'time': "32'", 'player': 'Dominik Livaković', 'team': 'Croatia'}], 'keyword': [], 'keyword_unsign': [], 'thread': ''}
+2022-12-15 00:20:55,888 - INFO - end crawl
+2022-12-15 00:22:17,902 - INFO - next run at: 2022-12-15 02:05:00
